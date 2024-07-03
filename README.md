@@ -19,3 +19,5 @@
     -  Enter Keyword: Input a keyword in the text entry field and click "Search Keyword".
     -  View Results: The results will be displayed in the text box with contextual snippets.
     -  Save Results: Click "Save Results to CSV" to save the search results to a file.
+    ![image](https://github.com/PinkMean/Python_Project/assets/137222857/42f2cc0b-f49d-4988-9004-1a9d95c2e40e)
+
