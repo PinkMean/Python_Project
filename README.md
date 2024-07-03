@@ -14,7 +14,8 @@
  ## Audit Analyzer_Version_02
  Significant upgrade from its predecessor, designed to provide a more intuitive and user-friendly experience through a graphical user interface (GUI). This tool empowers auditors to efficiently scan and analyze PDF documents for specific keywords, extract relevant text snippets, and save the results for further review. 
  -  Audit Analyzer_V02
-    -  Load PDF files and extract text using the PyPDF2 library.
-    -  Enable users to search for specific keywords within the extracted text and retrieve contextual snippets.
-    -  Provide a graphical user interface (GUI) for easier interaction, allowing users to select PDF files, enter keywords, view results, and save findings.
-
+    -  Run the Script: Execute the script to launch the GUI.
+    -  Add PDF Files: Click the "Add PDF File" button to select PDF files for analysis.
+    -  Enter Keyword: Input a keyword in the text entry field and click "Search Keyword".
+    -  View Results: The results will be displayed in the text box with contextual snippets.
+    -  Save Results: Click "Save Results to CSV" to save the search results to a file.
